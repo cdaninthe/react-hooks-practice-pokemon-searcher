@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "50",
+      "sprites": {
+        "front": "https://archives.bulbagarden.net/media/upload/f/fb/0001Bulbasaur.png",
+        "back": "https://static.wikia.nocookie.net/pokemon/images/f/f2/Red%27s_Bulbasaur.png/revision/latest?cb=20160916183055"
+      },
+      "id": 151
     }
   ]
 }
